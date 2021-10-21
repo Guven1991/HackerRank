@@ -1,4 +1,4 @@
-package sdfg;
+package solutions;
 
 import java.util.ArrayList;
 import java.util.List;

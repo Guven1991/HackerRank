@@ -1,4 +1,4 @@
-package primitive;
+package solutionss;
 
 public class StaticInsilazi {
     static int B;

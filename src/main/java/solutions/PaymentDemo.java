@@ -1,4 +1,4 @@
-package sdfg;
+package solutions;
 
 import java.text.NumberFormat;
 import java.util.Locale;

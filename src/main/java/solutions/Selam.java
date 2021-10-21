@@ -1,4 +1,4 @@
-package sdfg;
+package solutions;
 
 public class Selam {
     public static void main(String[] args) {

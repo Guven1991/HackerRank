@@ -1,7 +1,4 @@
-package sdfg;
-
-import java.util.ArrayList;
-import java.util.List;
+package solutions;
 
 public class CalculateLambda {
     int sum = 0;

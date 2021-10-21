@@ -1,4 +1,4 @@
-package primitive;
+package solutionss;
 
 import java.util.Scanner;
 import java.util.function.Function;

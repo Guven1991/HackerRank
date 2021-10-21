@@ -1,7 +1,5 @@
-package sdfg;
+package solutions;
 
-import java.util.*;
-import java.security.*;
 import java.security.Permission;
 import java.util.Scanner;
 

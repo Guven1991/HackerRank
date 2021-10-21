@@ -1,6 +1,5 @@
-package primitive;
+package solutionss;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class algoritmsss{

@@ -1,4 +1,4 @@
-package sdfg;
+package solutions;
 
 public class ExampleRegex {
 
